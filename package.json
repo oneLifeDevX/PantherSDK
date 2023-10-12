@@ -1,14 +1,14 @@
 {
-  "name": "@pantherswap-libs/sdk",
+  "name": "@flickswap-libs/sdk",
   "license": "MIT",
   "version": "1.0.0",
-  "description": "🛠 An SDK for building applications on top of pantherswap.",
+  "description": "🛠 An SDK for building applications on top of flickswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pantherswap/panther-swap-sdk.git",
+  "repository": "https://github.com/oneLifeDevX/PantherSDK.git",
   "keywords": [
     "pantherswap",
     "ethereum"
